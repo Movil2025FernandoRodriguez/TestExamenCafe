@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TestExamenCafe</string>
+    <string-array name="cafes">
+        <item>Cortado</item>
+        <item>Solo</item>
+        <item>Con leche</item>
+    </string-array>
+    <string-array name="sugar">
+        <item>Nada</item>
+        <item>Un poco</item>
+        <item>Mucho</item>
+    </string-array>
+</resources>
