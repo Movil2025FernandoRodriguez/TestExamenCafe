@@ -44,8 +44,6 @@ fun impresionImagen(opcionSeleccionada: String
 
     }
 
-
-
 }
 
 
